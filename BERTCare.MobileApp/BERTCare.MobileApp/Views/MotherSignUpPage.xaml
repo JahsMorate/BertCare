@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:BERTCare.MobileApp"
+    x:Class="BERTCare.MobileApp.MotherSignUpPage"
+    BackgroundColor="{ DynamicResource BackgroundColor }"
+    Title="">
+    <!-- Main Container -->
+    <ScrollView VerticalOptions="Center">
+        <Grid
+            RowDefinitions="*,*,*"
+            Padding="{ OnIdiom
+                Phone='24',
+                Tablet='100,24'
+            }">
+
+            <!-- Title / Subtitle -->
+            <VerticalStackLayout
+                VerticalOptions="Center"
+                Margin="0,0,0,10">
+                <!-- Title -->
+                <Label
+                    Text="Mother registration"
+                    FontSize="{ StaticResource LargeTitleFontSize }"
+                    HorizontalOptions="Center"
+                />
+
+                <!-- Subtitle -->
+                <Label
+                    Text="It only takes a minute to create   your account"
+                    FontSize="12"
+                    TextColor="{ DynamicResource TextSecondaryColor }"
+                    Margin="0,8,0,0"
+                    HorizontalTextAlignment="Center"
+                />
+
+                <Image
+                    VerticalOptions="Center"
+                    HorizontalOptions="Center"
+                    Source="mother_children_hugs.png"
+                    HeightRequest="200"
+                    Aspect="AspectFit"
+                    SemanticProperties.Description="Mother with their one child" />
+                
+            </VerticalStackLayout>
+
+
+            <!-- Entries Container -->
+            <VerticalStackLayout
+                Grid.Row="1"
+                Margin="0,0,0,10"
+                VerticalOptions="Start"
+                Spacing="16">
+
+                <Entry Placeholder="Full Name" />
+                <Entry Placeholder="Date of Birth" />
+                <Entry Placeholder="Contact Number" />
+                <Entry Placeholder="Email" />
+                <Entry Placeholder="Address" />
+                <Entry Placeholder="Username" />
+
+                <!-- Password Entry w/Icon -->
+                <Grid
+                    BackgroundColor="Transparent"
+                    ColumnDefinitions="*,Auto">
+                    <Rectangle
+                        RadiusX="20"
+                        RadiusY="20"
+                        Fill="{ Binding BackgroundColor, Source={x:Reference entry} }"
+                        Grid.ColumnSpan="2"
+                    />
+
+                    <!-- Entry -->
+                    <Entry
+                        x:Name="entry"
+                        Placeholder="Password"
+                        IsPassword="True"
+                    />
+
+                    <!-- Icon -->
+                    <Label
+                        x:Name="icon"
+                        Grid.Column="1"
+                        Text="{ x:Static local:MaterialCommunityIconsFont.EyeOutline }"
+                        FontSize="20"
+                        TextColor="{ DynamicResource TextSecondaryColor }"
+                        FontFamily="{ StaticResource NewsIconsFontFamily }"
+                        HorizontalOptions="End"
+                        VerticalOptions="Center"
+                        WidthRequest="34"
+                        Margin="0,0,8,0">
+                        <Label.GestureRecognizers>
+                            <TapGestureRecognizer Tapped="OnEyeTapped" />
+                        </Label.GestureRecognizers>
+                    </Label>
+                </Grid>
+
+            </VerticalStackLayout>
+
+            <!-- Container -->
+            <VerticalStackLayout
+                Grid.Row="2"
+                VerticalOptions="End"
+                Spacing="26"
+                Margin="0,10,0,30">
+                <!-- Create Account -->
+                <Button
+                    Text="Create Account"
+                    Style="{ StaticResource PrimaryActionButtonStyle }"
+                    Clicked="CreateButtonClicked"
+                />
+                <local:IconButton
+                    Text="Continue with Google"
+                    ButtonStyle="{ DynamicResource SocialButtonStyle }"
+                    IconText="{ x:Static local:MaterialCommunityIconsFont.Google }"
+                    IconFontSize="{ StaticResource LargeFontSize }"
+                    IconFontFamily="{ StaticResource NewsIconsFontFamily }"
+                />
+                <!-- Button/Text Container -->
+                <HorizontalStackLayout HorizontalOptions="Center">
+                    <!-- Text -->
+                    <Label
+                        Text="Already have an account? "
+                        FontSize="12"
+                        TextColor="{ DynamicResource TextSecondaryColor }"
+                        HorizontalTextAlignment="Center"
+                    />
+                    <!-- Login Button -->
+                    <Button
+                        Text="Login"
+                        HorizontalOptions="End"
+                        VerticalOptions="Start"
+                        Clicked="LoginButtonClicked"
+                        Style="{ DynamicResource LinkButtonStyle }"
+                    />
+                </HorizontalStackLayout>
+            </VerticalStackLayout>
+        </Grid>
+    </ScrollView>
+</ContentPage>

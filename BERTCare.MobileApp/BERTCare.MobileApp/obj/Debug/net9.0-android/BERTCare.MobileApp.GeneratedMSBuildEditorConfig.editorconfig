@@ -1,0 +1,157 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = true
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net9.0-android
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BERTCare.MobileApp
+build_property.ProjectDir = D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Controls/IconButton.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Controls.IconButton.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\IconButton.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\IconButton.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Controls/RoundedIcon.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Controls.RoundedIcon.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\RoundedIcon.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\RoundedIcon.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Themes/LightTheme.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Themes.LightTheme.xaml
+build_metadata.AdditionalFiles.TargetPath = Themes\LightTheme.xaml
+build_metadata.AdditionalFiles.RelativePath = Themes\LightTheme.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/ViewModels/MotherPortal/ChatBotLandingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.ViewModels.MotherPortal.ChatBotLandingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewModels\MotherPortal\ChatBotLandingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewModels\MotherPortal\ChatBotLandingPage.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/ViewModels/MotherPortal/MessageChatBot.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.ViewModels.MotherPortal.MessageChatBot.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewModels\MotherPortal\MessageChatBot.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewModels\MotherPortal\MessageChatBot.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/ViewModels/MotherPortal/SampleChatBot.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.ViewModels.MotherPortal.SampleChatBot.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewModels\MotherPortal\SampleChatBot.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewModels\MotherPortal\SampleChatBot.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/ViewModels/MotherPortal/Templates/NewsMembershipPlanRadioButtonTemplate.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.ViewModels.MotherPortal.Templates.NewsMembershipPlanRadioButtonTemplate.xaml
+build_metadata.AdditionalFiles.TargetPath = ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml
+build_metadata.AdditionalFiles.RelativePath = ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Views/MotherLoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Views.MotherLoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MotherLoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MotherLoginPage.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Views/MotherPortal/ChatbotPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Views.MotherPortal.ChatbotPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MotherPortal\ChatbotPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MotherPortal\ChatbotPage.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Views/MotherPortal/ChildrenTips.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Views.MotherPortal.ChildrenTips.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MotherPortal\ChildrenTips.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MotherPortal\ChildrenTips.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Views/MotherPortal/GeneratePreviewChildren.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Views.MotherPortal.GeneratePreviewChildren.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MotherPortal\GeneratePreviewChildren.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MotherPortal\GeneratePreviewChildren.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Views/MotherPortal/NewChatbotPagers.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Views.MotherPortal.NewChatbotPagers.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MotherPortal\NewChatbotPagers.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MotherPortal\NewChatbotPagers.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Views/MotherPortal/NewMotherHome.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Views.MotherPortal.NewMotherHome.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MotherPortal\NewMotherHome.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MotherPortal\NewMotherHome.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Views/MotherPortal/NewRimenders.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Views.MotherPortal.NewRimenders.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MotherPortal\NewRimenders.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MotherPortal\NewRimenders.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Views/MotherSignUpPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Views.MotherSignUpPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MotherSignUpPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MotherSignUpPage.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Views/MotherWelcomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Views.MotherWelcomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\MotherWelcomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\MotherWelcomePage.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Views/StartingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Views.StartingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\StartingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\StartingPage.xaml
+
+[D:/Jahs/Clients/Thesis.BERTCare.App/BERTCare.MobileApp/BERTCare.MobileApp/Views/WelcomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = BERTCare.MobileApp.Views.WelcomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\WelcomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\WelcomePage.xaml

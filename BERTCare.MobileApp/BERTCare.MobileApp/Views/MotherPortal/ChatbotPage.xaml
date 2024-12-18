@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BERTCare.MobileApp.Views.MotherPortal.ChatbotPage"
+             Title="ChatbotPage">
+
+    <!-- Use a Grid to structure content -->
+    <Grid>
+        <ScrollView VerticalOptions="Center" HorizontalOptions="Center">
+            <!-- Stack Layout for the Centered Content -->
+            <VerticalStackLayout 
+                HorizontalOptions="Center" 
+                VerticalOptions="Center"
+                Spacing="20">
+
+                <!-- Border with Circle Shape -->
+                <Border 
+                    StrokeThickness="0" 
+                    BackgroundColor="Transparent" 
+                    Stroke="Transparent"
+                    HeightRequest="200"
+                    WidthRequest="200"
+                    StrokeShape="RoundRectangle 1000">
+
+                    <!-- Force the Image into a Perfect Circle -->
+                    <Image Source="chatbot.jpg" 
+                           HeightRequest="200" 
+                           WidthRequest="200" 
+                           Aspect="AspectFill"/>
+                </Border>
+
+                <!-- Label -->
+                <Label Text="Hi! 👋 How can I help you today?" 
+                       FontSize="20" 
+                       HorizontalOptions="Center" 
+                       VerticalOptions="Center"
+                       TextColor="Black"/>
+                <Label Text="Start chatting with MOMI AI now you can ask me anything" 
+                       FontSize="10"
+                       Padding="20,0,20,0" 
+                       HorizontalTextAlignment="Center"
+                       HorizontalOptions="Center" 
+                       VerticalOptions="Center" 
+                       TextColor="Black"/>
+
+                <Button Text="Start Chat" TextColor="White" BackgroundColor="#005DF9" Clicked="Button_Clicked"/>
+            </VerticalStackLayout>
+        </ScrollView>
+    </Grid>
+</ContentPage>

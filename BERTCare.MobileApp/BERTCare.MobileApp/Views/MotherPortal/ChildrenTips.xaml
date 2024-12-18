@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BERTCare.MobileApp.Views.MotherPortal.ChildrenTips"
+             Title="ChildrenTips">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="ArticleButtonStyle" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="{ DynamicResource BackgroundSecondaryColor }" />
+                <Setter Property="TextColor" Value="{ DynamicResource TextColor }" />
+                <Setter Property="CornerRadius" Value="10" />
+                <Setter Property="FontSize" Value="16" />
+                <Setter Property="Padding" Value="10" />
+                <Setter Property="HorizontalOptions" Value="FillAndExpand" />
+                <Setter Property="VerticalOptions" Value="Center" />
+                <Setter Property="Margin" Value="0,5,0,5" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+   
+    <!-- Main Container -->
+    <Grid Padding="20">
+       
+        <!-- Main Content -->
+        <ScrollView ZIndex="1">
+            <VerticalStackLayout Spacing="20">
+               
+                <Grid>
+                    <!-- Left side (Labels) -->
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="Auto" />
+                        <RowDefinition Height="Auto" />
+                    </Grid.RowDefinitions>
+
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="Auto" />
+                    </Grid.ColumnDefinitions>
+
+                    <!-- Greeting Labels on the left -->
+                    <Label Text="Good day!" 
+                       FontSize="24" 
+                       TextColor="{ DynamicResource TextColor }" 
+                       HorizontalOptions="Start" 
+                       Grid.Row="0" Grid.Column="0" />
+
+                                <Label Text="Marry" 
+                       FontSize="32" 
+                       FontAttributes="Bold" 
+                       TextColor="{ DynamicResource TextColor }" 
+                       HorizontalOptions="Start" 
+                       Grid.Row="1" Grid.Column="0" />
+
+                                <!-- Image on the right -->
+                       <Image Source="user_icon.png" 
+                       VerticalOptions="Center" 
+                       HorizontalOptions="End" 
+                       HeightRequest="50" WidthRequest="50" 
+                       Grid.Row="0" Grid.Column="1" />
+                </Grid>
+
+
+                <!-- Articles -->
+                <Button FontSize="20" Text="How to Help Your Baby Sleep Through the Night" Style="{ StaticResource ArticleButtonStyle }" Clicked="Button_Clicked" />
+                <Button FontSize="20" Text="5 Foods to Boost Baby’s Nutrition" Style="{ StaticResource ArticleButtonStyle }" />
+                <Button FontSize="20" Text="How to Help Your Baby Sleep Safely" Style="{ StaticResource ArticleButtonStyle }" />
+            </VerticalStackLayout>
+        </ScrollView>
+    </Grid>
+</ContentPage>

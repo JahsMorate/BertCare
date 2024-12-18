@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:local="clr-namespace:BERTCare.MobileApp"
+    x:Class="BERTCare.MobileApp.MotherWelcomePage"
+    BackgroundColor="{ DynamicResource BackgroundColor }"
+    Title="">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="SocialButtonStyle" TargetType="Button" BasedOn="{ StaticResource RoundedButtonStyle }">
+                <Setter Property="BackgroundColor" Value="{ DynamicResource BackgroundSecondaryColor }" />
+                <Setter Property="TextColor" Value="{ DynamicResource TextColor }" />
+                <Setter Property="BorderColor" Value="Transparent" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <!-- Main Container -->
+    <ScrollView VerticalOptions="Center">
+        <Grid
+            Padding="{ OnIdiom
+                Phone='24',
+                Tablet='100,24'
+            }"
+            RowDefinitions="3.5*,6.5*">
+
+            <VerticalStackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="Center">
+                <!-- Title -->
+                <Label
+                    Text="Welcome!"
+                    LineBreakMode="WordWrap"
+                    FontSize="{ StaticResource LargeTitleFontSize }"
+                    HorizontalTextAlignment="Center"
+                />
+                <Image
+                    VerticalOptions="Center"
+                     HorizontalOptions="Center"
+                    Source="mother_with_children.png"
+                    HeightRequest="300"
+                    Aspect="AspectFit"
+                    SemanticProperties.Description="Mother with their one child" />
+            </VerticalStackLayout>
+
+            <!-- Buttons Container -->
+            <VerticalStackLayout
+                Grid.Row="1"
+                VerticalOptions="End"
+                Spacing="16">
+
+                <local:IconButton
+                    Text="Go to sign in"
+                     IconText="{ x:Static local:MaterialCommunityIconsFont.Login }"
+                    ButtonStyle="{ StaticResource PrimaryActionButtonStyle }"
+                    IconFontSize="{ StaticResource LargeFontSize }"
+                    IconColor="{ DynamicResource OnSurfaceColor }"
+                    IconFontFamily="{ StaticResource NewsIconsFontFamily }"
+                    Clicked="SignUpButtonClicked"
+                />
+                <local:IconButton
+                    Text="Continue with Google"
+                    ButtonStyle="{ DynamicResource SocialButtonStyle }"
+                    IconText="{ x:Static local:MaterialCommunityIconsFont.Google }"
+                    IconFontSize="{ StaticResource LargeFontSize }"
+                    IconFontFamily="{ StaticResource NewsIconsFontFamily }"
+                />
+
+                <!-- Button/Text Container -->
+                <HorizontalStackLayout HorizontalOptions="Center">
+                    <!-- Text -->
+                    <Label
+                        Text="Already have an account? "
+                        FontSize="12"
+                        TextColor="{ DynamicResource TextSecondaryColor }"
+                        HorizontalTextAlignment="Center"
+                    />
+                    <!-- Login Button -->
+                    <Button
+                        Text="Login"
+                        HorizontalOptions="End"
+                        VerticalOptions="Start"
+                        Style="{ DynamicResource LinkButtonStyle }"
+                        Clicked="LoginButtonClicked"
+                    />
+
+                </HorizontalStackLayout>
+            </VerticalStackLayout>
+
+        </Grid>
+    </ScrollView>
+</ContentPage>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>BERTCare.MobileApp</name>
+    </assembly>
+    <members>
+        <member name="T:BERTCare.MobileApp.LabelHandler">
+            <summary>
+            This handler fixes: https://github.com/dotnet/maui/issues/14125
+            </summary>
+        </member>
+        <member name="T:BERTCare.MobileApp.ScrollViewHandler">
+            <summary>
+            This handler fixes: https://github.com/dotnet/maui/issues/18513
+            </summary>
+        </member>
+        <member name="T:BERTCare.MobileApp.ObservableObject">
+            <summary>
+            Simple implementation of INotifyPropertyChanged.
+            </summary>
+        </member>
+        <member name="T:BERTCare.MobileApp.Resource">
+            <summary>
+            Android Resource Designer class.
+            Exposes the Android Resource designer assembly into the project Namespace.
+            </summary>
+        </member>
+    </members>
+</doc>

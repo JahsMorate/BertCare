@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BERTCare.MobileApp.Views.MotherPortal.NewRimenders"
+             Title="NewRimenders"
+             BackgroundColor="#f5f6fa">
+    <ScrollView>
+        <VerticalStackLayout >
+            <Image Source="calendar1.svg" HeightRequest="200" WidthRequest="400"/>
+            <Label Padding="20" Text="Upcoming Schedules" FontSize="20"/>
+
+
+
+            <Grid ColumnSpacing="5" VerticalOptions="Center" Padding="10">
+                <!-- Define 2 Columns -->
+                <Grid.ColumnDefinitions>
+                     <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />  
+                </Grid.ColumnDefinitions>
+
+                <!-- Define 2 Rows -->
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+
+                </Grid.RowDefinitions>
+
+                <!-- First VerticalStackLayout (First column) -->
+                <VerticalStackLayout Grid.Row="0" Grid.Column="0" Spacing="10" HorizontalOptions="Center" VerticalOptions="Center">
+                    <Frame BorderColor="LightGray" BackgroundColor="White" CornerRadius="15" Padding="15">
+                        <VerticalStackLayout Spacing="10" HorizontalOptions="Center">
+                            <Image Source="prenatal_icon.jpg" HeightRequest="40" WidthRequest="40"/>
+                            <Label Text="Prenatal Check up" FontSize="12" FontAttributes="Bold" TextColor="Black"/>
+                            <Label Text="March 15, 2024 09:00 AM" FontSize="10" TextColor="Gray"/>
+                            <Label Text="2 days left" FontSize="10" TextColor="Black"/>
+                            <ProgressBar Progress="0.7" WidthRequest="100" HeightRequest="5" HorizontalOptions="Fill" />
+                            <Label Text="70%" FontSize="10" TextColor="Black" HorizontalOptions="End" />
+                        </VerticalStackLayout>
+                    </Frame>
+                </VerticalStackLayout>
+
+                <!-- Second VerticalStackLayout (Second column) -->
+                <VerticalStackLayout Grid.Row="0" Grid.Column="1" Spacing="10" HorizontalOptions="Center" VerticalOptions="Center">
+                    <Frame BorderColor="LightGray" BackgroundColor="White" CornerRadius="15" Padding="15">
+                        <VerticalStackLayout Spacing="10" HorizontalOptions="Center">
+                            <Image Source="diet_icon.jpg" HeightRequest="40" WidthRequest="40"/>
+                            <Label Text="Prenatal Check up" FontSize="12" FontAttributes="Bold" TextColor="Black"/>
+                            <Label Text="March 15, 2024 09:00 AM" FontSize="10" TextColor="Gray"/>
+                            <Label Text="2 days left" FontSize="10" TextColor="Black"/>
+                            <ProgressBar Progress="0.7" WidthRequest="100" HeightRequest="5" HorizontalOptions="Fill" />
+                            <Label Text="70%" FontSize="10" TextColor="Black" HorizontalOptions="End" />
+                        </VerticalStackLayout>
+                    </Frame>
+                </VerticalStackLayout>
+
+                <!-- Third VerticalStackLayout (Third column) -->
+                <VerticalStackLayout Grid.Row="0" Grid.Column="2" Spacing="10" HorizontalOptions="Center" VerticalOptions="Center">
+                    <Frame BorderColor="LightGray" BackgroundColor="White" CornerRadius="15" Padding="15">
+                        <VerticalStackLayout Spacing="10" HorizontalOptions="Center">
+                            <Image Source="vacination_icon.png" HeightRequest="40" WidthRequest="40"/>
+                            <Label Text="Prenatal Check up" FontSize="12" FontAttributes="Bold" TextColor="Black"/>
+                            <Label Text="March 15, 2024 09:00 AM" FontSize="10" TextColor="Gray"/>
+                            <Label Text="2 days left" FontSize="10" TextColor="Black"/>
+                            <ProgressBar Progress="0.7" WidthRequest="100" HeightRequest="5" HorizontalOptions="Fill" />
+                            <Label Text="70%" FontSize="10" TextColor="Black" HorizontalOptions="End" />
+                        </VerticalStackLayout>
+                    </Frame>
+                </VerticalStackLayout>
+                
+            </Grid>
+            <Label Padding="20" Text="Completed Schedule" FontSize="20"/>
+            <HorizontalStackLayout HorizontalOptions="Center">
+                <Label Padding="20" Text="Empty" FontSize="12" TextColor="#718093"/>
+            </HorizontalStackLayout>
+            <Label Padding="20" Text="Missed Schedule" FontSize="20"/>
+            <HorizontalStackLayout HorizontalOptions="Center">
+                <Label Padding="20" Text="Empty" FontSize="12" TextColor="#718093"/>
+            </HorizontalStackLayout>
+        </VerticalStackLayout>
+       
+    </ScrollView>
+</ContentPage>

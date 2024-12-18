@@ -1,0 +1,551 @@
+2024-12-15 17:33:03.247 +08:00 [INF] [Workspace] Unloaded project with path: 
+2024-12-15 17:33:10.783 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-15 17:33:11.801 +08:00 [INF] Loading theme with path: 
+2024-12-15 17:33:12.828 +08:00 [INF] [MauiImpactManager] Created temporary folder at: C:\Users\Jahs M\AppData\Local\Temp\6af4bd68-6b0f-4c3d-a827-e22f9d2a8996
+2024-12-15 17:33:13.388 +08:00 [INF] [MauiImpactManager] Started persisting changes temporally at: C:\Users\Jahs M\AppData\Local\Temp\6af4bd68-6b0f-4c3d-a827-e22f9d2a8996\impact
+2024-12-15 17:33:13.424 +08:00 [ERR] Can't find pack descriptor here: C:\Users\Jahs M\AppData\Local\Temp\6af4bd68-6b0f-4c3d-a827-e22f9d2a8996\pack\descriptor.json
+2024-12-15 17:33:13.428 +08:00 [INF] [MauiImpactManager]: Processing builder...
+2024-12-15 17:33:13.434 +08:00 [INF] [LocalImpactBuilder]: Resolved {AssetId: , Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\BERTCare.MobileApp.csproj} to {SourcePath: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\BERTCare.MobileApp.csproj, DestinationPath: C:\Users\Jahs M\AppData\Local\Temp\6af4bd68-6b0f-4c3d-a827-e22f9d2a8996\impact\BERTCare.MobileApp.csproj}
+2024-12-15 17:33:13.455 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\6af4bd68-6b0f-4c3d-a827-e22f9d2a8996\impact\BERTCare.MobileApp.csproj Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\BERTCare.MobileApp.csproj
+2024-12-15 17:33:13.466 +08:00 [INF] [MauiImpactManager] Finished presisting changes temporaly
+2024-12-15 17:33:16.174 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-15 17:33:16.182 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-15 17:33:16.196 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-15 17:33:16.200 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-15 17:33:35.366 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-15 17:35:48.982 +08:00 [INF] [MauiImpactManager] Created temporary folder at: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f
+2024-12-15 17:35:48.998 +08:00 [INF] [MauiImpactManager] Started persisting changes temporally at: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact
+2024-12-15 17:35:49.039 +08:00 [INF] [MauiImpactManager]: Processing incomming files...
+2024-12-15 17:35:49.044 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#App.xaml, ProjectPath = App.xaml.cs }
+2024-12-15 17:35:49.047 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#App.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml.cs, RelativePath: App.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\App.xaml.cs }
+2024-12-15 17:35:49.086 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\App.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml.cs
+2024-12-15 17:35:49.093 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\App.xaml.cs Destination:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\App.xaml.cs
+2024-12-15 17:35:49.093 +08:00 [INF] [ChangeManager] (Add) Invalid paths
+2024-12-15 17:35:49.093 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#App.xaml, ProjectPath = App.xaml }
+2024-12-15 17:35:49.093 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#App.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml, RelativePath: App.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\App.xaml }
+2024-12-15 17:35:49.094 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsSignUpPage.xaml, ProjectPath = Views\NewsFlow\MotherSignUpPage.xaml.cs }
+2024-12-15 17:35:49.094 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsSignUpPage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherSignUpPage.xaml.cs, RelativePath: Views\MotherSignUpPage.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Views\MotherSignUpPage.xaml.cs }
+2024-12-15 17:35:49.094 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Views\MotherSignUpPage.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherSignUpPage.xaml.cs
+2024-12-15 17:35:49.095 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsSignUpPage.xaml, ProjectPath = Views\NewsFlow\MotherSignUpPage.xaml }
+2024-12-15 17:35:49.095 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsSignUpPage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherSignUpPage.xaml, RelativePath: Views\MotherSignUpPage.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Views\MotherSignUpPage.xaml }
+2024-12-15 17:35:49.095 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Views\MotherSignUpPage.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherSignUpPage.xaml
+2024-12-15 17:35:49.096 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#LightTheme.xaml, ProjectPath = Themes\LightTheme.xaml.cs }
+2024-12-15 17:35:49.096 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#LightTheme.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml.cs, RelativePath: Themes\LightTheme.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Themes\LightTheme.xaml.cs }
+2024-12-15 17:35:49.096 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#LightTheme.xaml, ProjectPath = Themes\LightTheme.xaml }
+2024-12-15 17:35:49.096 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#LightTheme.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml, RelativePath: Themes\LightTheme.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Themes\LightTheme.xaml }
+2024-12-15 17:35:49.097 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#Poppins-Regular.ttf, ProjectPath = Resources\Fonts\Poppins-Regular.ttf }
+2024-12-15 17:35:49.097 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#Poppins-Regular.ttf} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Resources\Fonts\Poppins-Regular.ttf, RelativePath: Resources\Fonts\Poppins-Regular.ttf, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Resources\Fonts\Poppins-Regular.ttf }
+2024-12-15 17:35:49.097 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Resources\Fonts\Poppins-Regular.ttf Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Resources\Fonts\Poppins-Regular.ttf
+2024-12-15 17:35:49.098 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#ScrollViewHandler.cs, ProjectPath = Controls\Handlers\ScrollViewHandler.cs }
+2024-12-15 17:35:49.098 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#ScrollViewHandler.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\Handlers\ScrollViewHandler.cs, RelativePath: Controls\Handlers\ScrollViewHandler.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Controls\Handlers\ScrollViewHandler.cs }
+2024-12-15 17:35:49.098 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Controls\Handlers\ScrollViewHandler.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\Handlers\ScrollViewHandler.cs
+2024-12-15 17:35:49.100 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#LabelHandler.cs, ProjectPath = Controls\Handlers\LabelHandler.cs }
+2024-12-15 17:35:49.100 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#LabelHandler.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\Handlers\LabelHandler.cs, RelativePath: Controls\Handlers\LabelHandler.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Controls\Handlers\LabelHandler.cs }
+2024-12-15 17:35:49.100 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Controls\Handlers\LabelHandler.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\Handlers\LabelHandler.cs
+2024-12-15 17:35:49.101 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#MaterialCommunityIconsFont.cs, ProjectPath = Resources\Fonts\MaterialCommunityIconsFont.cs }
+2024-12-15 17:35:49.101 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#MaterialCommunityIconsFont.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Resources\Fonts\MaterialCommunityIconsFont.cs, RelativePath: Resources\Fonts\MaterialCommunityIconsFont.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Resources\Fonts\MaterialCommunityIconsFont.cs }
+2024-12-15 17:35:49.101 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Resources\Fonts\MaterialCommunityIconsFont.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Resources\Fonts\MaterialCommunityIconsFont.cs
+2024-12-15 17:35:49.102 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#materialdesignicons-webfont.ttf, ProjectPath = Resources\Fonts\materialdesignicons-webfont.ttf }
+2024-12-15 17:35:49.102 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#materialdesignicons-webfont.ttf} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Resources\Fonts\materialdesignicons-webfont.ttf, RelativePath: Resources\Fonts\materialdesignicons-webfont.ttf, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Resources\Fonts\materialdesignicons-webfont.ttf }
+2024-12-15 17:35:49.102 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Resources\Fonts\materialdesignicons-webfont.ttf Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Resources\Fonts\materialdesignicons-webfont.ttf
+2024-12-15 17:35:49.105 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsLoginPage.xaml, ProjectPath = Views\NewsFlow\MotherLoginPage.xaml.cs }
+2024-12-15 17:35:49.105 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsLoginPage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherLoginPage.xaml.cs, RelativePath: Views\MotherLoginPage.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Views\MotherLoginPage.xaml.cs }
+2024-12-15 17:35:49.105 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Views\MotherLoginPage.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherLoginPage.xaml.cs
+2024-12-15 17:35:49.107 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsLoginPage.xaml, ProjectPath = Views\NewsFlow\MotherLoginPage.xaml }
+2024-12-15 17:35:49.107 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsLoginPage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherLoginPage.xaml, RelativePath: Views\MotherLoginPage.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Views\MotherLoginPage.xaml }
+2024-12-15 17:35:49.107 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Views\MotherLoginPage.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherLoginPage.xaml
+2024-12-15 17:35:49.109 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsWelcomePage.xaml, ProjectPath = Views\NewsFlow\WelcomePage.xaml.cs }
+2024-12-15 17:35:49.109 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsWelcomePage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\WelcomePage.xaml.cs, RelativePath: Views\WelcomePage.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Views\WelcomePage.xaml.cs }
+2024-12-15 17:35:49.109 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Views\WelcomePage.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\WelcomePage.xaml.cs
+2024-12-15 17:35:49.110 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsWelcomePage.xaml, ProjectPath = Views\NewsFlow\WelcomePage.xaml }
+2024-12-15 17:35:49.110 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsWelcomePage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\WelcomePage.xaml, RelativePath: Views\WelcomePage.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Views\WelcomePage.xaml }
+2024-12-15 17:35:49.110 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Views\WelcomePage.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\WelcomePage.xaml
+2024-12-15 17:35:49.111 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#IconButton.xaml, ProjectPath = Controls\IconButton.xaml.cs }
+2024-12-15 17:35:49.111 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#IconButton.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\IconButton.xaml.cs, RelativePath: Controls\IconButton.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Controls\IconButton.xaml.cs }
+2024-12-15 17:35:49.111 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Controls\IconButton.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\IconButton.xaml.cs
+2024-12-15 17:35:49.112 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#IconButton.xaml, ProjectPath = Controls\IconButton.xaml }
+2024-12-15 17:35:49.112 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#IconButton.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\IconButton.xaml, RelativePath: Controls\IconButton.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Controls\IconButton.xaml }
+2024-12-15 17:35:49.112 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Controls\IconButton.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\IconButton.xaml
+2024-12-15 17:35:49.113 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#IconAttribute.cs, ProjectPath = Controls\Enums\IconAttribute.cs }
+2024-12-15 17:35:49.113 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#IconAttribute.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\Enums\IconAttribute.cs, RelativePath: Controls\Enums\IconAttribute.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Controls\Enums\IconAttribute.cs }
+2024-12-15 17:35:49.113 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Controls\Enums\IconAttribute.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\Enums\IconAttribute.cs
+2024-12-15 17:35:49.114 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#IconButtonPosition.cs, ProjectPath = Controls\Enums\IconButtonPosition.cs }
+2024-12-15 17:35:49.114 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#IconButtonPosition.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\Enums\IconButtonPosition.cs, RelativePath: Controls\Enums\IconButtonPosition.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Controls\Enums\IconButtonPosition.cs }
+2024-12-15 17:35:49.114 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Controls\Enums\IconButtonPosition.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\Enums\IconButtonPosition.cs
+2024-12-15 17:35:49.118 +08:00 [INF] [MauiImpactManager]: Checking App.xaml namespaces...
+2024-12-15 17:35:49.118 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-15 17:35:49.118 +08:00 [INF] [PathResolver]: Resolved filter with key: ResolutionInfoKey { Id = Grial#App.xaml, ProjectPath = App.xaml }
+2024-12-15 17:35:49.136 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\App.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml
+2024-12-15 17:35:49.139 +08:00 [INF] [MauiImpactManager]: Processing FileUpdates...
+2024-12-15 17:35:49.139 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#App.xaml, ProjectPath = App.xaml }
+2024-12-15 17:35:49.156 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\App.xaml Destination:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\App.xaml
+2024-12-15 17:35:49.156 +08:00 [INF] [ChangeManager] (Add) Invalid paths
+2024-12-15 17:35:49.166 +08:00 [INF] [PathResolver]: Attempting to resolve name: ThemeCompatibility.xaml
+2024-12-15 17:35:49.174 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#LightTheme.xaml, ProjectPath = Themes\LightTheme.xaml.cs }
+2024-12-15 17:35:49.178 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#LightTheme.xaml, ProjectPath = Themes\LightTheme.xaml.cs }
+2024-12-15 17:35:49.180 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Themes\LightTheme.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml.cs
+2024-12-15 17:35:49.180 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#LightTheme.xaml, ProjectPath = Themes\LightTheme.xaml }
+2024-12-15 17:35:49.181 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Themes\LightTheme.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-15 17:35:49.188 +08:00 [INF] [MauiImpactManager]: Atempting to update themes...
+2024-12-15 17:35:49.189 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#LightTheme.xaml, ProjectPath = Themes\LightTheme.xaml }
+2024-12-15 17:35:49.189 +08:00 [INF] [MauiImpactManager]: Found theme with path: Themes\LightTheme.xaml
+2024-12-15 17:35:49.195 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Themes\LightTheme.xaml Destination:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\Themes\LightTheme.xaml
+2024-12-15 17:35:49.195 +08:00 [INF] [ChangeManager] (Add) Invalid paths
+2024-12-15 17:35:49.198 +08:00 [INF] [MauiImpactManager]: Adding font declarations...
+2024-12-15 17:35:49.198 +08:00 [INF] [PathResolver]: Attempting to resolve name: MauiProgram.cs
+2024-12-15 17:35:49.198 +08:00 [INF] [PathResolver]: Resolved asset with name {MauiProgram.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\MauiProgram.cs, RelativePath: MauiProgram.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\MauiProgram.cs }
+2024-12-15 17:35:49.220 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\MauiProgram.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\MauiProgram.cs
+2024-12-15 17:35:49.223 +08:00 [INF] [MauiImpactManager]: Adding handler declarations...
+2024-12-15 17:35:49.223 +08:00 [INF] [PathResolver]: Attempting to resolve name: MauiProgram.cs
+2024-12-15 17:35:49.223 +08:00 [INF] [PathResolver]: Resolved filter with key: ResolutionInfoKey { Id = Grial#MauiProgram.cs, ProjectPath = MauiProgram.cs }
+2024-12-15 17:35:49.245 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\MauiProgram.cs Destination:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\MauiProgram.cs
+2024-12-15 17:35:49.245 +08:00 [INF] [ChangeManager] (Add) Invalid paths
+2024-12-15 17:35:49.249 +08:00 [INF] [MauiImpactManager]: Updating project file...
+2024-12-15 17:35:49.262 +08:00 [INF] [MauiImpactManager]: Added nugget Nuget { Id = UXD.Grial.Basic, Version = 4.2.114, IsPivate = False, Initialization = PackagingInitialization { Name = UseGrial, Namespace = UXDivers.Grial }, PackIdToRemove = UXDivers.GrialMaui, UpdateOnly = False }
+2024-12-15 17:35:49.272 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\BERTCare.MobileApp.csproj Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\BERTCare.MobileApp.csproj
+2024-12-15 17:35:49.275 +08:00 [INF] [MauiImpactManager]: Adding handler nuget initializations...
+2024-12-15 17:35:49.275 +08:00 [INF] [PathResolver]: Attempting to resolve name: MauiProgram.cs
+2024-12-15 17:35:49.276 +08:00 [INF] [PathResolver]: Resolved filter with key: ResolutionInfoKey { Id = Grial#MauiProgram.cs, ProjectPath = MauiProgram.cs }
+2024-12-15 17:35:49.281 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\MauiProgram.cs Destination:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\MauiProgram.cs
+2024-12-15 17:35:49.281 +08:00 [INF] [ChangeManager] (Add) Invalid paths
+2024-12-15 17:35:49.285 +08:00 [INF] [MauiImpactManager]: Attempting to set selected theme...
+2024-12-15 17:35:49.287 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-15 17:35:49.287 +08:00 [INF] [PathResolver]: Resolved filter with key: ResolutionInfoKey { Id = Grial#App.xaml, ProjectPath = App.xaml }
+2024-12-15 17:35:49.288 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#LightTheme.xaml, ProjectPath = Themes\LightTheme.xaml }
+2024-12-15 17:35:49.293 +08:00 [INF] [MauiImpactManager]: Processing builder...
+2024-12-15 17:35:49.293 +08:00 [INF] [PathResolver]: Resolved relative path with temporary folder for path: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\App.xaml
+2024-12-15 17:35:49.293 +08:00 [INF] [LocalImpactBuilder]: Resolved {AssetId: , Path: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\App.xaml} to {SourcePath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\App.xaml, DestinationPath: C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\App.xaml}
+2024-12-15 17:35:49.309 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\App.xaml Destination:C:\Users\Jahs M\AppData\Local\Temp\1bda73b0-9f55-4689-8d55-27f6028b1d2f\impact\App.xaml
+2024-12-15 17:35:49.309 +08:00 [INF] [ChangeManager] (Add) Invalid paths
+2024-12-15 17:35:49.309 +08:00 [INF] [MauiImpactManager] Finished presisting changes temporaly
+2024-12-15 17:35:52.812 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-15 17:35:52.812 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-15 17:35:52.947 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-15 17:35:52.947 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-15 17:35:52.947 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-15 17:35:52.947 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-15 17:35:52.958 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-15 17:35:52.958 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-15 17:35:52.960 +08:00 [INF] [EventAggregator] (HandleAsync) Updated xaml path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml
+2024-12-15 17:35:53.006 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-15 17:35:53.009 +08:00 [INF] Found theme path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-15 17:35:53.010 +08:00 [INF] Loading theme with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-15 17:35:53.010 +08:00 [INF] Could not find codebehind for theme with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-15 17:35:53.236 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-15 17:51:27.410 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-15 17:52:47.966 +08:00 [INF] [MauiImpactManager] Created temporary folder at: C:\Users\Jahs M\AppData\Local\Temp\bf99f533-74cf-4613-86cc-55184e1f102b
+2024-12-15 17:52:47.971 +08:00 [INF] [MauiImpactManager] Started persisting changes temporally at: C:\Users\Jahs M\AppData\Local\Temp\bf99f533-74cf-4613-86cc-55184e1f102b\impact
+2024-12-15 17:52:47.973 +08:00 [INF] [MauiImpactManager]: Processing incomming files...
+2024-12-15 17:52:47.973 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsWelcomePage.xaml, ProjectPath = Views\NewsFlow\MotherWelcomePage.xaml.cs }
+2024-12-15 17:52:47.973 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsWelcomePage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherWelcomePage.xaml.cs, RelativePath: Views\MotherWelcomePage.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\bf99f533-74cf-4613-86cc-55184e1f102b\impact\Views\MotherWelcomePage.xaml.cs }
+2024-12-15 17:52:47.973 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\bf99f533-74cf-4613-86cc-55184e1f102b\impact\Views\MotherWelcomePage.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherWelcomePage.xaml.cs
+2024-12-15 17:52:47.976 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsWelcomePage.xaml, ProjectPath = Views\NewsFlow\MotherWelcomePage.xaml }
+2024-12-15 17:52:47.976 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsWelcomePage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherWelcomePage.xaml, RelativePath: Views\MotherWelcomePage.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\bf99f533-74cf-4613-86cc-55184e1f102b\impact\Views\MotherWelcomePage.xaml }
+2024-12-15 17:52:47.976 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\bf99f533-74cf-4613-86cc-55184e1f102b\impact\Views\MotherWelcomePage.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherWelcomePage.xaml
+2024-12-15 17:52:47.976 +08:00 [INF] [MauiImpactManager]: Checking App.xaml namespaces...
+2024-12-15 17:52:47.976 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-15 17:52:47.976 +08:00 [INF] [PathResolver]: Resolved asset with name {App.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml, RelativePath: App.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\bf99f533-74cf-4613-86cc-55184e1f102b\impact\App.xaml }
+2024-12-15 17:52:48.028 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\bf99f533-74cf-4613-86cc-55184e1f102b\impact\App.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml
+2024-12-15 17:52:48.029 +08:00 [INF] [MauiImpactManager]: Processing FileUpdates...
+2024-12-15 17:52:48.029 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#App.xaml, ProjectPath = App.xaml }
+2024-12-15 17:52:48.029 +08:00 [INF] [PathResolver]: Attempting to resolve name: ThemeCompatibility.xaml
+2024-12-15 17:52:48.029 +08:00 [INF] [MauiImpactManager]: Atempting to update themes...
+2024-12-15 17:52:48.030 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#LightTheme.xaml, ProjectPath = Themes\LightTheme.xaml }
+2024-12-15 17:52:48.030 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#LightTheme.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml, RelativePath: Themes\LightTheme.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\bf99f533-74cf-4613-86cc-55184e1f102b\impact\Themes\LightTheme.xaml }
+2024-12-15 17:52:48.030 +08:00 [INF] [MauiImpactManager]: Found theme with path: Themes\LightTheme.xaml
+2024-12-15 17:52:48.031 +08:00 [INF] [MauiImpactManager]: Adding handler declarations...
+2024-12-15 17:52:48.031 +08:00 [INF] [PathResolver]: Attempting to resolve name: MauiProgram.cs
+2024-12-15 17:52:48.031 +08:00 [INF] [PathResolver]: Resolved asset with name {MauiProgram.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\MauiProgram.cs, RelativePath: MauiProgram.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\bf99f533-74cf-4613-86cc-55184e1f102b\impact\MauiProgram.cs }
+2024-12-15 17:52:48.039 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\bf99f533-74cf-4613-86cc-55184e1f102b\impact\MauiProgram.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\MauiProgram.cs
+2024-12-15 17:52:48.039 +08:00 [INF] [MauiImpactManager]: Updating project file...
+2024-12-15 17:52:48.040 +08:00 [INF] [MauiImpactManager]: Added nugget Nuget { Id = UXD.Grial.Basic, Version = 4.2.114, IsPivate = False, Initialization = PackagingInitialization { Name = UseGrial, Namespace = UXDivers.Grial }, PackIdToRemove = UXDivers.GrialMaui, UpdateOnly = False }
+2024-12-15 17:52:48.041 +08:00 [INF] [MauiImpactManager]: Adding handler nuget initializations...
+2024-12-15 17:52:48.041 +08:00 [INF] [PathResolver]: Attempting to resolve name: MauiProgram.cs
+2024-12-15 17:52:48.041 +08:00 [INF] [PathResolver]: Resolved filter with key: ResolutionInfoKey { Id = Grial#MauiProgram.cs, ProjectPath = MauiProgram.cs }
+2024-12-15 17:52:48.043 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\bf99f533-74cf-4613-86cc-55184e1f102b\impact\MauiProgram.cs Destination:C:\Users\Jahs M\AppData\Local\Temp\bf99f533-74cf-4613-86cc-55184e1f102b\impact\MauiProgram.cs
+2024-12-15 17:52:48.043 +08:00 [INF] [ChangeManager] (Add) Invalid paths
+2024-12-15 17:52:48.043 +08:00 [INF] [MauiImpactManager] Finished presisting changes temporaly
+2024-12-15 17:52:51.938 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-15 17:52:51.938 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-15 17:52:51.956 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-15 17:52:51.956 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-15 17:52:51.956 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-15 17:52:51.956 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-15 17:52:51.956 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-15 17:52:51.956 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-15 17:52:51.957 +08:00 [INF] [EventAggregator] (HandleAsync) Updated xaml path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml
+2024-12-15 17:52:52.022 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-15 17:52:52.023 +08:00 [INF] Found theme path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-15 17:52:52.023 +08:00 [INF] Loading theme with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-15 17:52:52.061 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-15 17:52:52.061 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-15 17:52:52.063 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-15 17:52:52.064 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-15 17:52:52.265 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-15 18:04:00.367 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-15 18:38:44.907 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-15 19:08:17.912 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-15 19:27:21.766 +08:00 [INF] [MauiImpactManager] Created temporary folder at: C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d
+2024-12-15 19:27:21.800 +08:00 [INF] [MauiImpactManager] Started persisting changes temporally at: C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact
+2024-12-15 19:27:21.888 +08:00 [INF] [MauiImpactManager]: Processing incomming files...
+2024-12-15 19:27:21.888 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsSourcesPage.xaml, ProjectPath = Views\NewsFlow\StartingPage.xaml.cs }
+2024-12-15 19:27:21.888 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsSourcesPage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\StartingPage.xaml.cs, RelativePath: Views\StartingPage.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\Views\StartingPage.xaml.cs }
+2024-12-15 19:27:21.888 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\Views\StartingPage.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\StartingPage.xaml.cs
+2024-12-15 19:27:21.892 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsSourcesPage.xaml, ProjectPath = Views\NewsFlow\StartingPage.xaml }
+2024-12-15 19:27:21.892 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsSourcesPage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\StartingPage.xaml, RelativePath: Views\StartingPage.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\Views\StartingPage.xaml }
+2024-12-15 19:27:21.892 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\Views\StartingPage.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\StartingPage.xaml
+2024-12-15 19:27:21.894 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsSourcesViewModel.cs, ProjectPath = ViewModels\StartingViewModel.cs }
+2024-12-15 19:27:21.897 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsSourcesPage.xaml, ProjectPath = Views\NewsFlow\StartingPage.xaml.cs }
+2024-12-15 19:27:21.962 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsSourcesViewModel.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\StartingViewModel.cs, RelativePath: ViewModels\StartingViewModel.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\ViewModels\StartingViewModel.cs }
+2024-12-15 19:27:21.962 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\ViewModels\StartingViewModel.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\StartingViewModel.cs
+2024-12-15 19:27:22.117 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#earth.png, ProjectPath = Resources\Images\TabIcons\earth.png }
+2024-12-15 19:27:22.117 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#earth.png} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Resources\Images\TabIcons\earth.png, RelativePath: Resources\Images\TabIcons\earth.png, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\Resources\Images\TabIcons\earth.png }
+2024-12-15 19:27:22.117 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\Resources\Images\TabIcons\earth.png Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Resources\Images\TabIcons\earth.png
+2024-12-15 19:27:22.119 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsData.cs, ProjectPath = ViewModels\Data\NewsData.cs }
+2024-12-15 19:27:22.119 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsData.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\Data\NewsData.cs, RelativePath: ViewModels\Data\NewsData.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\ViewModels\Data\NewsData.cs }
+2024-12-15 19:27:22.119 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\ViewModels\Data\NewsData.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\Data\NewsData.cs
+2024-12-15 19:27:22.120 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#ObservableObject.cs, ProjectPath = Helpers\ObservableObject.cs }
+2024-12-15 19:27:22.120 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#ObservableObject.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Helpers\ObservableObject.cs, RelativePath: Helpers\ObservableObject.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\Helpers\ObservableObject.cs }
+2024-12-15 19:27:22.121 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\Helpers\ObservableObject.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Helpers\ObservableObject.cs
+2024-12-15 19:27:22.122 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#JsonHelper.cs, ProjectPath = Helpers\JsonHelper.cs }
+2024-12-15 19:27:22.123 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#JsonHelper.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Helpers\JsonHelper.cs, RelativePath: Helpers\JsonHelper.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\Helpers\JsonHelper.cs }
+2024-12-15 19:27:22.123 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\Helpers\JsonHelper.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Helpers\JsonHelper.cs
+2024-12-15 19:27:22.124 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#News.json, ProjectPath = ViewModels\Data\News.json }
+2024-12-15 19:27:22.124 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#News.json} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\Data\News.json, RelativePath: ViewModels\Data\News.json, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\ViewModels\Data\News.json }
+2024-12-15 19:27:22.124 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\ViewModels\Data\News.json Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\Data\News.json
+2024-12-15 19:27:22.125 +08:00 [INF] [MauiImpactManager]: Checking App.xaml namespaces...
+2024-12-15 19:27:22.125 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-15 19:27:22.125 +08:00 [INF] [PathResolver]: Resolved asset with name {App.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml, RelativePath: App.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\App.xaml }
+2024-12-15 19:27:22.137 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\App.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml
+2024-12-15 19:27:22.137 +08:00 [INF] [MauiImpactManager]: Processing FileUpdates...
+2024-12-15 19:27:22.137 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#App.xaml, ProjectPath = App.xaml }
+2024-12-15 19:27:22.163 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\App.xaml Destination:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\App.xaml
+2024-12-15 19:27:22.163 +08:00 [INF] [ChangeManager] (Add) Invalid paths
+2024-12-15 19:27:22.163 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsData.cs, ProjectPath = ViewModels\Data\NewsData.cs }
+2024-12-15 19:27:22.254 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\ViewModels\Data\NewsData.cs Destination:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\ViewModels\Data\NewsData.cs
+2024-12-15 19:27:22.254 +08:00 [INF] [ChangeManager] (Add) Invalid paths
+2024-12-15 19:27:22.254 +08:00 [INF] [PathResolver]: Attempting to resolve name: ThemeCompatibility.xaml
+2024-12-15 19:27:22.255 +08:00 [INF] [MauiImpactManager]: Atempting to update themes...
+2024-12-15 19:27:22.255 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#LightTheme.xaml, ProjectPath = Themes\LightTheme.xaml }
+2024-12-15 19:27:22.255 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#LightTheme.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml, RelativePath: Themes\LightTheme.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\Themes\LightTheme.xaml }
+2024-12-15 19:27:22.255 +08:00 [INF] [MauiImpactManager]: Found theme with path: Themes\LightTheme.xaml
+2024-12-15 19:27:22.270 +08:00 [INF] [MauiImpactManager]: Adding handler declarations...
+2024-12-15 19:27:22.270 +08:00 [INF] [PathResolver]: Attempting to resolve name: MauiProgram.cs
+2024-12-15 19:27:22.270 +08:00 [INF] [PathResolver]: Resolved asset with name {MauiProgram.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\MauiProgram.cs, RelativePath: MauiProgram.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\MauiProgram.cs }
+2024-12-15 19:27:22.341 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\MauiProgram.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\MauiProgram.cs
+2024-12-15 19:27:22.341 +08:00 [INF] [MauiImpactManager]: Updating project file...
+2024-12-15 19:27:22.341 +08:00 [INF] [MauiImpactManager]: Added nugget Nuget { Id = UXD.Grial.Basic, Version = 4.2.114, IsPivate = False, Initialization = PackagingInitialization { Name = UseGrial, Namespace = UXDivers.Grial }, PackIdToRemove = UXDivers.GrialMaui, UpdateOnly = False }
+2024-12-15 19:27:22.387 +08:00 [INF] [MauiImpactManager]: Added Embedded resource with path: ViewModels\Data\News.json
+2024-12-15 19:27:22.389 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\BERTCare.MobileApp.csproj Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\BERTCare.MobileApp.csproj
+2024-12-15 19:27:22.390 +08:00 [INF] [MauiImpactManager]: Adding handler nuget initializations...
+2024-12-15 19:27:22.390 +08:00 [INF] [PathResolver]: Attempting to resolve name: MauiProgram.cs
+2024-12-15 19:27:22.390 +08:00 [INF] [PathResolver]: Resolved filter with key: ResolutionInfoKey { Id = Grial#MauiProgram.cs, ProjectPath = MauiProgram.cs }
+2024-12-15 19:27:22.391 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\MauiProgram.cs Destination:C:\Users\Jahs M\AppData\Local\Temp\a82682d1-3ec7-49f9-8f50-4fb154df1a4d\impact\MauiProgram.cs
+2024-12-15 19:27:22.391 +08:00 [INF] [ChangeManager] (Add) Invalid paths
+2024-12-15 19:27:22.391 +08:00 [INF] [MauiImpactManager] Finished presisting changes temporaly
+2024-12-15 19:27:25.553 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-15 19:27:25.553 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-15 19:27:25.714 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-15 19:27:25.744 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-15 19:27:25.744 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-15 19:27:25.744 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-15 19:27:25.745 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-15 19:27:25.745 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-15 19:27:25.747 +08:00 [INF] [EventAggregator] (HandleAsync) Updated xaml path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml
+2024-12-15 19:27:25.808 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-15 19:27:25.810 +08:00 [INF] Found theme path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-15 19:27:25.810 +08:00 [INF] Loading theme with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-15 19:27:25.814 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-15 19:27:25.815 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-15 19:27:25.815 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-15 19:27:25.815 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-15 19:27:25.815 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-15 19:27:25.815 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-15 19:27:25.822 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-15 19:27:25.822 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-15 19:27:26.209 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-15 19:32:52.799 +08:00 [INF] Solution closed
+2024-12-16 13:18:20.529 +08:00 [INF] [Workspace] Loaded project with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\BERTCare.MobileApp.csproj
+2024-12-16 13:18:22.311 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-16 13:18:22.388 +08:00 [INF] Found theme path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-16 13:18:23.340 +08:00 [INF] Loading theme with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-16 13:58:33.533 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-16 14:19:15.597 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-16 14:21:07.358 +08:00 [INF] Solution closed
+2024-12-17 18:49:19.818 +08:00 [INF] [Workspace] Loaded project with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\BERTCare.MobileApp.csproj
+2024-12-17 18:49:23.882 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-17 18:49:23.967 +08:00 [INF] Found theme path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-17 18:49:24.987 +08:00 [INF] Loading theme with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-17 19:01:28.442 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-17 19:01:52.350 +08:00 [INF] [Workspace] Loaded project with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\BERTCare.MobileApp.csproj
+2024-12-17 19:01:52.360 +08:00 [INF] [Workspace] Loaded project with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\BERTCare.MobileApp.csproj
+2024-12-17 19:01:55.418 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-17 19:01:55.418 +08:00 [INF] Found theme path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-17 19:01:56.361 +08:00 [INF] Loading theme with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-17 19:02:34.361 +08:00 [INF] [MauiImpactManager] Created temporary folder at: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e
+2024-12-17 19:02:34.436 +08:00 [INF] [MauiImpactManager] Started persisting changes temporally at: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact
+2024-12-17 19:02:34.687 +08:00 [INF] [MauiImpactManager]: Processing incomming files...
+2024-12-17 19:02:34.691 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPage.xaml, ProjectPath = Views\NewsFlow\MotherHome.xaml.cs }
+2024-12-17 19:02:34.693 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsMembershipPage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherPortal\MotherHome.xaml.cs, RelativePath: Views\MotherPortal\MotherHome.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Views\MotherPortal\MotherHome.xaml.cs }
+2024-12-17 19:02:34.732 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Views\MotherPortal\MotherHome.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherPortal\MotherHome.xaml.cs
+2024-12-17 19:02:34.752 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPage.xaml, ProjectPath = Views\NewsFlow\MotherHome.xaml }
+2024-12-17 19:02:34.752 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsMembershipPage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherPortal\MotherHome.xaml, RelativePath: Views\MotherPortal\MotherHome.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Views\MotherPortal\MotherHome.xaml }
+2024-12-17 19:02:34.752 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Views\MotherPortal\MotherHome.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherPortal\MotherHome.xaml
+2024-12-17 19:02:34.753 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipViewModel.cs, ProjectPath = ViewModels\MotherHomeViewModel.cs }
+2024-12-17 19:02:34.755 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPage.xaml, ProjectPath = Views\NewsFlow\MotherHome.xaml.cs }
+2024-12-17 19:02:34.758 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsMembershipViewModel.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\MotherHomeViewModel.cs, RelativePath: ViewModels\MotherPortal\MotherHomeViewModel.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\ViewModels\MotherPortal\MotherHomeViewModel.cs }
+2024-12-17 19:02:34.758 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\ViewModels\MotherPortal\MotherHomeViewModel.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\MotherHomeViewModel.cs
+2024-12-17 19:02:34.760 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPlanRadioButtonTemplate.xaml, ProjectPath = Views\NewsFlow\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs }
+2024-12-17 19:02:34.760 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPage.xaml, ProjectPath = Views\NewsFlow\MotherHome.xaml.cs }
+2024-12-17 19:02:34.761 +08:00 [INF] [PathResolver]: Resolved relative path with temporary folder for path: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Views\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs
+2024-12-17 19:02:34.761 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsMembershipPlanRadioButtonTemplate.xaml} with { Path: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Views\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs, RelativePath: Views\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Views\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs }
+2024-12-17 19:02:34.761 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Views\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs
+2024-12-17 19:02:34.763 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPlanRadioButtonTemplate.xaml, ProjectPath = Views\NewsFlow\Templates\NewsMembershipPlanRadioButtonTemplate.xaml }
+2024-12-17 19:02:34.763 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPage.xaml, ProjectPath = Views\NewsFlow\MotherHome.xaml.cs }
+2024-12-17 19:02:34.763 +08:00 [INF] [PathResolver]: Resolved relative path with temporary folder for path: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Views\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml
+2024-12-17 19:02:34.763 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsMembershipPlanRadioButtonTemplate.xaml} with { Path: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Views\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml, RelativePath: Views\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Views\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml }
+2024-12-17 19:02:34.763 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Views\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Views\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml
+2024-12-17 19:02:34.764 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#RoundedIconButton.cs, ProjectPath = Controls\RoundedIconButton.cs }
+2024-12-17 19:02:34.765 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#RoundedIconButton.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\RoundedIconButton.cs, RelativePath: Controls\RoundedIconButton.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Controls\RoundedIconButton.cs }
+2024-12-17 19:02:34.765 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Controls\RoundedIconButton.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\RoundedIconButton.cs
+2024-12-17 19:02:34.767 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#RoundedIcon.xaml, ProjectPath = Controls\RoundedIcon.xaml.cs }
+2024-12-17 19:02:34.767 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#RoundedIcon.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\RoundedIcon.xaml.cs, RelativePath: Controls\RoundedIcon.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Controls\RoundedIcon.xaml.cs }
+2024-12-17 19:02:34.767 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Controls\RoundedIcon.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\RoundedIcon.xaml.cs
+2024-12-17 19:02:34.768 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#RoundedIcon.xaml, ProjectPath = Controls\RoundedIcon.xaml }
+2024-12-17 19:02:34.768 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#RoundedIcon.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\RoundedIcon.xaml, RelativePath: Controls\RoundedIcon.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Controls\RoundedIcon.xaml }
+2024-12-17 19:02:34.768 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Controls\RoundedIcon.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Controls\RoundedIcon.xaml
+2024-12-17 19:02:34.771 +08:00 [INF] [MauiImpactManager]: Checking App.xaml namespaces...
+2024-12-17 19:02:34.771 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-17 19:02:34.773 +08:00 [INF] [PathResolver]: Resolved asset with name {App.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml, RelativePath: App.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\App.xaml }
+2024-12-17 19:02:34.903 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\App.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml
+2024-12-17 19:02:34.912 +08:00 [INF] [MauiImpactManager]: Processing FileUpdates...
+2024-12-17 19:02:34.913 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#App.xaml, ProjectPath = App.xaml }
+2024-12-17 19:02:34.937 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\App.xaml Destination:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\App.xaml
+2024-12-17 19:02:34.937 +08:00 [INF] [ChangeManager] (Add) Invalid paths
+2024-12-17 19:02:34.937 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsData.cs, ProjectPath = ViewModels\Data\NewsData.cs }
+2024-12-17 19:02:34.937 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsData.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\Data\NewsData.cs, RelativePath: ViewModels\Data\NewsData.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\ViewModels\Data\NewsData.cs }
+2024-12-17 19:02:34.982 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\ViewModels\Data\NewsData.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\Data\NewsData.cs
+2024-12-17 19:02:34.995 +08:00 [INF] [PathResolver]: Attempting to resolve name: ThemeCompatibility.xaml
+2024-12-17 19:02:35.081 +08:00 [INF] [MauiImpactManager]: Atempting to update themes...
+2024-12-17 19:02:35.085 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#LightTheme.xaml, ProjectPath = Themes\LightTheme.xaml }
+2024-12-17 19:02:35.085 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#LightTheme.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml, RelativePath: Themes\LightTheme.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Themes\LightTheme.xaml }
+2024-12-17 19:02:35.085 +08:00 [INF] [MauiImpactManager]: Found theme with path: Themes\LightTheme.xaml
+2024-12-17 19:02:35.091 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\Themes\LightTheme.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-17 19:02:35.098 +08:00 [INF] [MauiImpactManager]: Adding handler declarations...
+2024-12-17 19:02:35.098 +08:00 [INF] [PathResolver]: Attempting to resolve name: MauiProgram.cs
+2024-12-17 19:02:35.098 +08:00 [INF] [PathResolver]: Resolved asset with name {MauiProgram.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\MauiProgram.cs, RelativePath: MauiProgram.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\MauiProgram.cs }
+2024-12-17 19:02:35.514 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\MauiProgram.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\MauiProgram.cs
+2024-12-17 19:02:35.518 +08:00 [INF] [MauiImpactManager]: Updating project file...
+2024-12-17 19:02:35.529 +08:00 [INF] [MauiImpactManager]: Added nugget Nuget { Id = UXD.Grial.Basic, Version = 4.2.114, IsPivate = False, Initialization = PackagingInitialization { Name = UseGrial, Namespace = UXDivers.Grial }, PackIdToRemove = UXDivers.GrialMaui, UpdateOnly = False }
+2024-12-17 19:02:35.535 +08:00 [INF] [MauiImpactManager]: Adding handler nuget initializations...
+2024-12-17 19:02:35.535 +08:00 [INF] [PathResolver]: Attempting to resolve name: MauiProgram.cs
+2024-12-17 19:02:35.535 +08:00 [INF] [PathResolver]: Resolved filter with key: ResolutionInfoKey { Id = Grial#MauiProgram.cs, ProjectPath = MauiProgram.cs }
+2024-12-17 19:02:35.539 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\MauiProgram.cs Destination:C:\Users\Jahs M\AppData\Local\Temp\a3d3d737-e7c6-4157-ac8d-514aed65d17e\impact\MauiProgram.cs
+2024-12-17 19:02:35.539 +08:00 [INF] [ChangeManager] (Add) Invalid paths
+2024-12-17 19:02:35.547 +08:00 [INF] [MauiImpactManager] Finished presisting changes temporaly
+2024-12-17 19:02:38.687 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-17 19:02:38.813 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-17 19:02:39.136 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-17 19:02:39.180 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-17 19:02:40.227 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-17 19:02:40.233 +08:00 [INF] [EventAggregator] (HandleAsync) Updated xaml path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml
+2024-12-17 19:02:40.314 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-17 19:02:40.315 +08:00 [INF] Found theme path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-17 19:02:40.315 +08:00 [INF] Loading theme with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-17 19:02:40.321 +08:00 [INF] [EventAggregator] (HandleAsync) Updated theme path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-17 19:02:40.321 +08:00 [INF] Loading theme with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-17 19:08:33.053 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-17 19:12:01.779 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-17 19:12:05.441 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-17 19:14:57.155 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-17 19:14:57.751 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-17 19:14:58.740 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-17 19:19:07.625 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-17 19:19:08.398 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-17 19:19:42.799 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-17 19:19:46.535 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-17 19:20:19.942 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-17 19:41:16.041 +08:00 [INF] Solution closed
+2024-12-18 06:15:39.410 +08:00 [INF] [Workspace] Loaded project with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\BERTCare.MobileApp.csproj
+2024-12-18 06:15:41.280 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-18 06:15:41.342 +08:00 [INF] Found theme path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-18 06:15:41.800 +08:00 [INF] Loading theme with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-18 06:16:07.495 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-18 06:16:07.496 +08:00 [INF] Found theme path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-18 06:16:07.993 +08:00 [INF] Loading theme with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-18 06:16:33.252 +08:00 [INF] [Workspace] Loaded project with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\BERTCare.MobileApp.csproj
+2024-12-18 06:16:33.275 +08:00 [INF] [Workspace] Loaded project with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\BERTCare.MobileApp.csproj
+2024-12-18 06:16:33.763 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-18 06:16:33.764 +08:00 [INF] Found theme path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-18 06:16:34.057 +08:00 [INF] Loading theme with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-18 06:17:06.624 +08:00 [INF] [MauiImpactManager] Created temporary folder at: C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e
+2024-12-18 06:17:06.651 +08:00 [INF] [MauiImpactManager] Started persisting changes temporally at: C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact
+2024-12-18 06:17:06.777 +08:00 [INF] [MauiImpactManager]: Processing incomming files...
+2024-12-18 06:17:06.786 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPage.xaml, ProjectPath = Views\NewsFlow\ChatBotLandingPage.xaml.cs }
+2024-12-18 06:17:06.787 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsMembershipPage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\ChatBotLandingPage.xaml.cs, RelativePath: ViewModels\MotherPortal\ChatBotLandingPage.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\ViewModels\MotherPortal\ChatBotLandingPage.xaml.cs }
+2024-12-18 06:17:06.795 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\ViewModels\MotherPortal\ChatBotLandingPage.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\ChatBotLandingPage.xaml.cs
+2024-12-18 06:17:06.815 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPage.xaml, ProjectPath = Views\NewsFlow\ChatBotLandingPage.xaml }
+2024-12-18 06:17:06.815 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsMembershipPage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\ChatBotLandingPage.xaml, RelativePath: ViewModels\MotherPortal\ChatBotLandingPage.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\ViewModels\MotherPortal\ChatBotLandingPage.xaml }
+2024-12-18 06:17:06.815 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\ViewModels\MotherPortal\ChatBotLandingPage.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\ChatBotLandingPage.xaml
+2024-12-18 06:17:06.816 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipViewModel.cs, ProjectPath = ViewModels\ChatBotLandingViewModel.cs }
+2024-12-18 06:17:06.818 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPage.xaml, ProjectPath = Views\NewsFlow\ChatBotLandingPage.xaml.cs }
+2024-12-18 06:17:06.821 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsMembershipViewModel.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\ChatBotLandingViewModel.cs, RelativePath: ViewModels\MotherPortal\ChatBotLandingViewModel.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\ViewModels\MotherPortal\ChatBotLandingViewModel.cs }
+2024-12-18 06:17:06.821 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\ViewModels\MotherPortal\ChatBotLandingViewModel.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\ChatBotLandingViewModel.cs
+2024-12-18 06:17:06.822 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPlanRadioButtonTemplate.xaml, ProjectPath = Views\NewsFlow\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs }
+2024-12-18 06:17:06.822 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPage.xaml, ProjectPath = Views\NewsFlow\ChatBotLandingPage.xaml.cs }
+2024-12-18 06:17:06.823 +08:00 [INF] [PathResolver]: Resolved relative path with temporary folder for path: C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs
+2024-12-18 06:17:06.823 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsMembershipPlanRadioButtonTemplate.xaml} with { Path: C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs, RelativePath: ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs }
+2024-12-18 06:17:06.823 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs
+2024-12-18 06:17:06.824 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPlanRadioButtonTemplate.xaml, ProjectPath = Views\NewsFlow\Templates\NewsMembershipPlanRadioButtonTemplate.xaml }
+2024-12-18 06:17:06.824 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPage.xaml, ProjectPath = Views\NewsFlow\ChatBotLandingPage.xaml.cs }
+2024-12-18 06:17:06.825 +08:00 [INF] [PathResolver]: Resolved relative path with temporary folder for path: C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml
+2024-12-18 06:17:06.825 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsMembershipPlanRadioButtonTemplate.xaml} with { Path: C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml, RelativePath: ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml }
+2024-12-18 06:17:06.825 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml
+2024-12-18 06:17:06.829 +08:00 [INF] [MauiImpactManager]: Checking App.xaml namespaces...
+2024-12-18 06:17:06.829 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-18 06:17:06.829 +08:00 [INF] [PathResolver]: Resolved asset with name {App.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml, RelativePath: App.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\App.xaml }
+2024-12-18 06:17:06.858 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\App.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml
+2024-12-18 06:17:06.864 +08:00 [INF] [MauiImpactManager]: Processing FileUpdates...
+2024-12-18 06:17:06.864 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#App.xaml, ProjectPath = App.xaml }
+2024-12-18 06:17:06.880 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsData.cs, ProjectPath = ViewModels\Data\NewsData.cs }
+2024-12-18 06:17:06.881 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsData.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\Data\NewsData.cs, RelativePath: ViewModels\Data\NewsData.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\ViewModels\Data\NewsData.cs }
+2024-12-18 06:17:06.929 +08:00 [INF] [PathResolver]: Attempting to resolve name: ThemeCompatibility.xaml
+2024-12-18 06:17:06.943 +08:00 [INF] [MauiImpactManager]: Atempting to update themes...
+2024-12-18 06:17:06.947 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#LightTheme.xaml, ProjectPath = Themes\LightTheme.xaml }
+2024-12-18 06:17:06.947 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#LightTheme.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml, RelativePath: Themes\LightTheme.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\Themes\LightTheme.xaml }
+2024-12-18 06:17:06.947 +08:00 [INF] [MauiImpactManager]: Found theme with path: Themes\LightTheme.xaml
+2024-12-18 06:17:06.956 +08:00 [INF] [MauiImpactManager]: Adding handler declarations...
+2024-12-18 06:17:06.956 +08:00 [INF] [PathResolver]: Attempting to resolve name: MauiProgram.cs
+2024-12-18 06:17:06.956 +08:00 [INF] [PathResolver]: Resolved asset with name {MauiProgram.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\MauiProgram.cs, RelativePath: MauiProgram.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\MauiProgram.cs }
+2024-12-18 06:17:06.997 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\MauiProgram.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\MauiProgram.cs
+2024-12-18 06:17:07.002 +08:00 [INF] [MauiImpactManager]: Updating project file...
+2024-12-18 06:17:07.012 +08:00 [INF] [MauiImpactManager]: Added nugget Nuget { Id = UXD.Grial.Basic, Version = 4.2.114, IsPivate = False, Initialization = PackagingInitialization { Name = UseGrial, Namespace = UXDivers.Grial }, PackIdToRemove = UXDivers.GrialMaui, UpdateOnly = False }
+2024-12-18 06:17:07.017 +08:00 [INF] [MauiImpactManager]: Adding handler nuget initializations...
+2024-12-18 06:17:07.017 +08:00 [INF] [PathResolver]: Attempting to resolve name: MauiProgram.cs
+2024-12-18 06:17:07.017 +08:00 [INF] [PathResolver]: Resolved filter with key: ResolutionInfoKey { Id = Grial#MauiProgram.cs, ProjectPath = MauiProgram.cs }
+2024-12-18 06:17:07.025 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\MauiProgram.cs Destination:C:\Users\Jahs M\AppData\Local\Temp\4f4f3b94-ac74-4bf5-af52-1a1f66b9b64e\impact\MauiProgram.cs
+2024-12-18 06:17:07.025 +08:00 [INF] [ChangeManager] (Add) Invalid paths
+2024-12-18 06:17:07.040 +08:00 [INF] [MauiImpactManager] Finished presisting changes temporaly
+2024-12-18 06:17:10.430 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-18 06:17:10.436 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-18 06:17:10.476 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-18 06:17:10.479 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-18 06:17:11.113 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:17:11.124 +08:00 [INF] [EventAggregator] (HandleAsync) Updated xaml path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml
+2024-12-18 06:17:11.192 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-18 06:17:11.193 +08:00 [INF] Found theme path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-18 06:17:11.193 +08:00 [INF] Loading theme with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-18 06:18:36.043 +08:00 [INF] [MauiImpactManager] Created temporary folder at: C:\Users\Jahs M\AppData\Local\Temp\44e0c742-f445-4d89-9154-21089dff138e
+2024-12-18 06:18:36.044 +08:00 [INF] [MauiImpactManager] Started persisting changes temporally at: C:\Users\Jahs M\AppData\Local\Temp\44e0c742-f445-4d89-9154-21089dff138e\impact
+2024-12-18 06:18:36.045 +08:00 [INF] [MauiImpactManager]: Processing incomming files...
+2024-12-18 06:18:36.045 +08:00 [INF] [MauiImpactManager]: Checking App.xaml namespaces...
+2024-12-18 06:18:36.045 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-18 06:18:36.045 +08:00 [INF] [PathResolver]: Resolved asset with name {App.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml, RelativePath: App.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\44e0c742-f445-4d89-9154-21089dff138e\impact\App.xaml }
+2024-12-18 06:18:36.049 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\44e0c742-f445-4d89-9154-21089dff138e\impact\App.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml
+2024-12-18 06:18:36.052 +08:00 [INF] [MauiImpactManager]: Processing FileUpdates...
+2024-12-18 06:18:36.052 +08:00 [INF] [PathResolver]: Attempting to resolve name: ThemeCompatibility.xaml
+2024-12-18 06:18:36.052 +08:00 [INF] [MauiImpactManager]: Updating project file...
+2024-12-18 06:18:36.052 +08:00 [INF] [MauiImpactManager] Finished presisting changes temporaly
+2024-12-18 06:18:40.068 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-18 06:18:40.068 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-18 06:18:40.074 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-18 06:18:40.074 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-18 06:18:40.074 +08:00 [INF] [EventAggregator] (HandleAsync) Updated xaml path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml
+2024-12-18 06:18:40.143 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-18 06:18:40.144 +08:00 [INF] Found theme path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-18 06:18:40.144 +08:00 [INF] Loading theme with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-18 06:18:40.149 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-18 06:18:40.150 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-18 06:18:40.151 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-18 06:18:40.151 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-18 06:18:58.083 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:18:58.226 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:21:57.784 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:22:17.218 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:22:17.409 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:25:04.076 +08:00 [INF] [MauiImpactManager] Created temporary folder at: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe
+2024-12-18 06:25:04.134 +08:00 [INF] [MauiImpactManager] Started persisting changes temporally at: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact
+2024-12-18 06:25:04.135 +08:00 [INF] [MauiImpactManager]: Processing incomming files...
+2024-12-18 06:25:04.135 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPage.xaml, ProjectPath = Views\NewsFlow\SampleChatBot.xaml.cs }
+2024-12-18 06:25:04.135 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsMembershipPage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\SampleChatBot.xaml.cs, RelativePath: ViewModels\MotherPortal\SampleChatBot.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\SampleChatBot.xaml.cs }
+2024-12-18 06:25:04.135 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\SampleChatBot.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\SampleChatBot.xaml.cs
+2024-12-18 06:25:04.137 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPage.xaml, ProjectPath = Views\NewsFlow\SampleChatBot.xaml }
+2024-12-18 06:25:04.137 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsMembershipPage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\SampleChatBot.xaml, RelativePath: ViewModels\MotherPortal\SampleChatBot.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\SampleChatBot.xaml }
+2024-12-18 06:25:04.137 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\SampleChatBot.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\SampleChatBot.xaml
+2024-12-18 06:25:04.139 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipViewModel.cs, ProjectPath = ViewModels\SampleChatBotViewModel.cs }
+2024-12-18 06:25:04.139 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPage.xaml, ProjectPath = Views\NewsFlow\SampleChatBot.xaml.cs }
+2024-12-18 06:25:04.139 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsMembershipViewModel.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\SampleChatBotViewModel.cs, RelativePath: ViewModels\MotherPortal\SampleChatBotViewModel.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\SampleChatBotViewModel.cs }
+2024-12-18 06:25:04.139 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\SampleChatBotViewModel.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\SampleChatBotViewModel.cs
+2024-12-18 06:25:04.141 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPlanRadioButtonTemplate.xaml, ProjectPath = Views\NewsFlow\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs }
+2024-12-18 06:25:04.141 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPage.xaml, ProjectPath = Views\NewsFlow\SampleChatBot.xaml.cs }
+2024-12-18 06:25:04.141 +08:00 [INF] [PathResolver]: Resolved relative path with temporary folder for path: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs
+2024-12-18 06:25:04.141 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsMembershipPlanRadioButtonTemplate.xaml} with { Path: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs, RelativePath: ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs }
+2024-12-18 06:25:04.141 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml.cs
+2024-12-18 06:25:04.143 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPlanRadioButtonTemplate.xaml, ProjectPath = Views\NewsFlow\Templates\NewsMembershipPlanRadioButtonTemplate.xaml }
+2024-12-18 06:25:04.143 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsMembershipPage.xaml, ProjectPath = Views\NewsFlow\SampleChatBot.xaml.cs }
+2024-12-18 06:25:04.143 +08:00 [INF] [PathResolver]: Resolved relative path with temporary folder for path: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml
+2024-12-18 06:25:04.143 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsMembershipPlanRadioButtonTemplate.xaml} with { Path: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml, RelativePath: ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml }
+2024-12-18 06:25:04.144 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\Templates\NewsMembershipPlanRadioButtonTemplate.xaml
+2024-12-18 06:25:04.146 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsWelcomePage.xaml, ProjectPath = Views\NewsFlow\MessageChatBot.xaml.cs }
+2024-12-18 06:25:04.146 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsWelcomePage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\MessageChatBot.xaml.cs, RelativePath: ViewModels\MotherPortal\MessageChatBot.xaml.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\MessageChatBot.xaml.cs }
+2024-12-18 06:25:04.146 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\MessageChatBot.xaml.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\MessageChatBot.xaml.cs
+2024-12-18 06:25:04.147 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsWelcomePage.xaml, ProjectPath = Views\NewsFlow\MessageChatBot.xaml }
+2024-12-18 06:25:04.147 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsWelcomePage.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\MessageChatBot.xaml, RelativePath: ViewModels\MotherPortal\MessageChatBot.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\MessageChatBot.xaml }
+2024-12-18 06:25:04.147 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\MotherPortal\MessageChatBot.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\MotherPortal\MessageChatBot.xaml
+2024-12-18 06:25:04.149 +08:00 [INF] [MauiImpactManager]: Checking App.xaml namespaces...
+2024-12-18 06:25:04.149 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-18 06:25:04.149 +08:00 [INF] [PathResolver]: Resolved asset with name {App.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml, RelativePath: App.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\App.xaml }
+2024-12-18 06:25:04.153 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\App.xaml Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml
+2024-12-18 06:25:04.153 +08:00 [INF] [MauiImpactManager]: Processing FileUpdates...
+2024-12-18 06:25:04.153 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#App.xaml, ProjectPath = App.xaml }
+2024-12-18 06:25:04.154 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#NewsData.cs, ProjectPath = ViewModels\Data\NewsData.cs }
+2024-12-18 06:25:04.154 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#NewsData.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\ViewModels\Data\NewsData.cs, RelativePath: ViewModels\Data\NewsData.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\ViewModels\Data\NewsData.cs }
+2024-12-18 06:25:04.154 +08:00 [INF] [PathResolver]: Attempting to resolve name: ThemeCompatibility.xaml
+2024-12-18 06:25:04.154 +08:00 [INF] [MauiImpactManager]: Atempting to update themes...
+2024-12-18 06:25:04.156 +08:00 [INF] [PathResolver]: Attempting to resolve key: ResolutionInfoKey { Id = Grial#LightTheme.xaml, ProjectPath = Themes\LightTheme.xaml }
+2024-12-18 06:25:04.156 +08:00 [INF] [PathResolver]: Resolved asset with id {Grial#LightTheme.xaml} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml, RelativePath: Themes\LightTheme.xaml, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\Themes\LightTheme.xaml }
+2024-12-18 06:25:04.156 +08:00 [INF] [MauiImpactManager]: Found theme with path: Themes\LightTheme.xaml
+2024-12-18 06:25:04.156 +08:00 [INF] [MauiImpactManager]: Adding handler declarations...
+2024-12-18 06:25:04.156 +08:00 [INF] [PathResolver]: Attempting to resolve name: MauiProgram.cs
+2024-12-18 06:25:04.156 +08:00 [INF] [PathResolver]: Resolved asset with name {MauiProgram.cs} with { Path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\MauiProgram.cs, RelativePath: MauiProgram.cs, AssignedDestinationPath: C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\MauiProgram.cs }
+2024-12-18 06:25:04.158 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\MauiProgram.cs Destination:D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\MauiProgram.cs
+2024-12-18 06:25:04.159 +08:00 [INF] [MauiImpactManager]: Updating project file...
+2024-12-18 06:25:04.159 +08:00 [INF] [MauiImpactManager]: Added nugget Nuget { Id = UXD.Grial.Basic, Version = 4.2.114, IsPivate = False, Initialization = PackagingInitialization { Name = UseGrial, Namespace = UXDivers.Grial }, PackIdToRemove = UXDivers.GrialMaui, UpdateOnly = False }
+2024-12-18 06:25:04.159 +08:00 [INF] [MauiImpactManager]: Adding handler nuget initializations...
+2024-12-18 06:25:04.159 +08:00 [INF] [PathResolver]: Attempting to resolve name: MauiProgram.cs
+2024-12-18 06:25:04.159 +08:00 [INF] [PathResolver]: Resolved filter with key: ResolutionInfoKey { Id = Grial#MauiProgram.cs, ProjectPath = MauiProgram.cs }
+2024-12-18 06:25:04.160 +08:00 [INF] [ChangeManager] (Add) Source:C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\MauiProgram.cs Destination:C:\Users\Jahs M\AppData\Local\Temp\13f8dceb-0f5c-43f9-a414-5fa3f7d6f7fe\impact\MauiProgram.cs
+2024-12-18 06:25:04.160 +08:00 [INF] [ChangeManager] (Add) Invalid paths
+2024-12-18 06:25:04.160 +08:00 [INF] [MauiImpactManager] Finished presisting changes temporaly
+2024-12-18 06:25:08.128 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-18 06:25:08.128 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-18 06:25:08.183 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-18 06:25:08.183 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-18 06:25:08.183 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-18 06:25:08.183 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-18 06:25:08.183 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-18 06:25:08.183 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-18 06:25:08.183 +08:00 [INF] [EventAggregator] (HandleAsync) Updated xaml path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\App.xaml
+2024-12-18 06:25:08.257 +08:00 [INF] [PathResolver]: Attempting to resolve name: App.xaml
+2024-12-18 06:25:08.258 +08:00 [INF] Found theme path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-18 06:25:08.258 +08:00 [INF] Loading theme with path: D:\Jahs\Clients\Thesis.BERTCare.App\BERTCare.MobileApp\BERTCare.MobileApp\Themes\LightTheme.xaml
+2024-12-18 06:25:08.264 +08:00 [INF] [ImpactManager] ChangeManagerConfirmed
+2024-12-18 06:25:08.265 +08:00 [INF] [MauiImpactManager] Started changes persistence
+2024-12-18 06:25:08.270 +08:00 [INF] [MauiImpactManager] Finished persisting changes
+2024-12-18 06:25:08.270 +08:00 [INF] [AssetsExplorer] Cleared existing assets by impacts
+2024-12-18 06:25:08.560 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:25:29.027 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:30:35.484 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:30:42.989 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:30:42.991 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:30:57.195 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:30:57.340 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:35:53.932 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:35:54.124 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:59:15.302 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 06:59:15.458 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 07:03:03.158 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 07:04:08.679 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 07:05:59.962 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 07:06:00.221 +08:00 [INF] [AssetsExplorer] Cleared existing assets by project change
+2024-12-18 07:08:41.543 +08:00 [INF] Solution closed

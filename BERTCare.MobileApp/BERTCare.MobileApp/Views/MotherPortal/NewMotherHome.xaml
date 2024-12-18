@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BERTCare.MobileApp.Views.MotherPortal.NewMotherHome"
+             NavigationPage.HasNavigationBar="True"
+             Title="NewMotherHome">
+    <Grid>
+        <ScrollView>
+            <Grid Padding="20" ColumnSpacing="20" HorizontalOptions="Center" VerticalOptions="Center">
+                <!-- Define 2 Columns -->
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="*" />
+                </Grid.ColumnDefinitions>
+
+                <!-- Define 2 Rows -->
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <!-- First VerticalStackLayout -->
+                <VerticalStackLayout Grid.Row="0" Grid.Column="0" Spacing="10" HorizontalOptions="Center" VerticalOptions="Center">
+                    <VerticalStackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped" />
+                    </VerticalStackLayout.GestureRecognizers>
+
+                    <Border StrokeThickness="0" BackgroundColor="Transparent" Stroke="Transparent" StrokeShape="RoundRectangle 20">
+                        <Image Source="child_care_tips.jpg" HeightRequest="200" WidthRequest="200"/>
+                    </Border>
+                    <Label Text="Childcare Tips" FontSize="14" HorizontalOptions="Center" VerticalOptions="Center" />
+                </VerticalStackLayout>
+
+                <!-- Second VerticalStackLayout -->
+                <VerticalStackLayout Grid.Row="0" Grid.Column="1" Spacing="10" HorizontalOptions="Center" VerticalOptions="Center">
+                    <VerticalStackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="RedirectChatBotPage"/>
+                    </VerticalStackLayout.GestureRecognizers>
+
+                    <Border StrokeThickness="0" BackgroundColor="Transparent" Stroke="Transparent" StrokeShape="RoundRectangle 20">
+                        <Image Source="chatbot.jpg" HeightRequest="200" WidthRequest="200"/>
+                    </Border>
+                    <Label Text="Chabot" FontSize="14" HorizontalOptions="Center" VerticalOptions="Center" />
+                </VerticalStackLayout>
+
+                <!-- Third VerticalStackLayout -->
+                <VerticalStackLayout Grid.Row="1" Grid.Column="0" Spacing="10" HorizontalOptions="Center" VerticalOptions="Center">
+                    <VerticalStackLayout.GestureRecognizers>
+                        <TapGestureRecognizer Tapped="TapGestureRecognizer_Tapped_1" />
+                    </VerticalStackLayout.GestureRecognizers>
+
+                    <Border StrokeThickness="0" BackgroundColor="Transparent" Stroke="Transparent" StrokeShape="RoundRectangle 20">
+                        <Image Source="reminders.jpg" HeightRequest="200" WidthRequest="200"/>
+                    </Border>
+                    <Label Text="Reminders" FontSize="14" HorizontalOptions="Center" VerticalOptions="Center" />
+                </VerticalStackLayout>
+
+                <!-- Fourth VerticalStackLayout -->
+                <VerticalStackLayout Grid.Row="1" Grid.Column="1" Spacing="10" HorizontalOptions="Center" VerticalOptions="Center">
+                    <VerticalStackLayout.GestureRecognizers>
+                        <TapGestureRecognizer />
+                    </VerticalStackLayout.GestureRecognizers>
+
+                    <Border StrokeThickness="0" BackgroundColor="Transparent" Stroke="Transparent" StrokeShape="RoundRectangle 20">
+                        <Image Source="furom.jpg" HeightRequest="200" WidthRequest="200"/>
+                    </Border>
+                    <Label Text="Furom " FontSize="14" HorizontalOptions="Center" VerticalOptions="Center" />
+                </VerticalStackLayout>
+
+            </Grid>
+        </ScrollView>
+
+
+        <!-- Fixed footer with button -->
+        <ContentView Grid.Row="1" Margin="0, 60, 0, 0">
+            <Grid ColumnDefinitions="*,*,*,*" BackgroundColor="#248277"  HorizontalOptions="Fill" VerticalOptions="End">
+
+                <!-- Home -->
+                <VerticalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+                    <Image Source="home_icon.png" HeightRequest="30" WidthRequest="30" />
+                    <Label Text="Home" TextColor="White" FontSize="12" HorizontalTextAlignment="Center" />
+                </VerticalStackLayout>
+
+                <!-- Chat -->
+                <VerticalStackLayout Grid.Column="1" HorizontalOptions="Center" VerticalOptions="Center">
+                    <Image Source="chats_icon.png" HeightRequest="30" WidthRequest="30" />
+                    <Label Text="Chat" TextColor="White" FontSize="12" HorizontalTextAlignment="Center" />
+                </VerticalStackLayout>
+
+                <!-- Profile -->
+                <VerticalStackLayout Grid.Column="2" HorizontalOptions="Center" VerticalOptions="Center">
+                    <Image Source="profile_icon.png" HeightRequest="30" WidthRequest="30" />
+                    <Label Text="Profile" TextColor="White" FontSize="12" HorizontalTextAlignment="Center" />
+                </VerticalStackLayout>
+
+                <!-- Settings -->
+                <VerticalStackLayout Grid.Column="3" HorizontalOptions="Center" VerticalOptions="Center">
+                    <Image Source="setting_icon.png" HeightRequest="30" WidthRequest="30" />
+                    <Label Text="Settings" TextColor="White" FontSize="12" HorizontalTextAlignment="Center" />
+                </VerticalStackLayout>
+
+            </Grid>
+        </ContentView>
+
+    </Grid>
+
+</ContentPage>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="BERTCare.MobileApp.Views.MotherPortal.GeneratePreviewChildren"
+             Title="GeneratePreviewChildren">
+    <!-- Main Content -->
+    <ScrollView ZIndex="1">
+        <VerticalStackLayout Spacing="20">
+
+            <Grid Padding="20">
+                <!-- Left side (Labels) -->
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*" />
+                    <ColumnDefinition Width="Auto" />
+                </Grid.ColumnDefinitions>
+
+                <!-- Greeting Labels on the left -->
+                <Label Text="Step-by-Step Guide:" 
+                   FontSize="24" 
+                   TextColor="{ DynamicResource TextColor }" 
+                   HorizontalOptions="Start" 
+                   Grid.Row="0" Grid.Column="0" />
+
+            </Grid>
+
+
+            <!-- Articles -->
+            <Button FontSize="20" Text="Step 1: Set a consistent bedtime routine." BackgroundColor="White" TextColor="Black" />
+            <Button FontSize="20" Text="Step 2: Use soft lighting and quiet sounds."  BackgroundColor="White" TextColor="Black"/>
+            <Button FontSize="20" Text="Step 3: Avoid overstimulation before bedtime."  BackgroundColor="White" TextColor="Black" />
+
+
+            <Border StrokeThickness="1" 
+                Stroke="Black" 
+                BackgroundColor="Transparent"
+                StrokeShape="RoundRectangle 10">
+                    <Image Source="youtube_icon.jpg" 
+                   HeightRequest="200" 
+                   WidthRequest="200" />        
+            </Border>
+
+        </VerticalStackLayout>
+    </ScrollView>
+   
+</ContentPage>

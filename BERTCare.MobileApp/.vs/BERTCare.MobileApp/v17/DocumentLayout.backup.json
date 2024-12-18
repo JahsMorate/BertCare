@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Jahs\\Clients\\Thesis.BERTCare.App\\BERTCare.MobileApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D5D5E-A5E3-41BE-8680-2882F90CAFA7}|BERTCare.MobileApp\\BERTCare.MobileApp.csproj|d:\\jahs\\clients\\thesis.bertcare.app\\bertcare.mobileapp\\bertcare.mobileapp\\views\\motherwelcomepage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{E42D5D5E-A5E3-41BE-8680-2882F90CAFA7}|BERTCare.MobileApp\\BERTCare.MobileApp.csproj|solutionrelative:bertcare.mobileapp\\views\\motherwelcomepage.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D5D5E-A5E3-41BE-8680-2882F90CAFA7}|BERTCare.MobileApp\\BERTCare.MobileApp.csproj|d:\\jahs\\clients\\thesis.bertcare.app\\bertcare.mobileapp\\bertcare.mobileapp\\views\\motherportal\\newrimenders.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E42D5D5E-A5E3-41BE-8680-2882F90CAFA7}|BERTCare.MobileApp\\BERTCare.MobileApp.csproj|solutionrelative:bertcare.mobileapp\\views\\motherportal\\newrimenders.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42D5D5E-A5E3-41BE-8680-2882F90CAFA7}|BERTCare.MobileApp\\BERTCare.MobileApp.csproj|d:\\jahs\\clients\\thesis.bertcare.app\\bertcare.mobileapp\\bertcare.mobileapp\\views\\motherportal\\newmotherhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{E42D5D5E-A5E3-41BE-8680-2882F90CAFA7}|BERTCare.MobileApp\\BERTCare.MobileApp.csproj|solutionrelative:bertcare.mobileapp\\views\\motherportal\\newmotherhome.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MotherWelcomePage.xaml.cs",
+              "DocumentMoniker": "D:\\Jahs\\Clients\\Thesis.BERTCare.App\\BERTCare.MobileApp\\BERTCare.MobileApp\\Views\\MotherWelcomePage.xaml.cs",
+              "RelativeDocumentMoniker": "BERTCare.MobileApp\\Views\\MotherWelcomePage.xaml.cs",
+              "ToolTip": "D:\\Jahs\\Clients\\Thesis.BERTCare.App\\BERTCare.MobileApp\\BERTCare.MobileApp\\Views\\MotherWelcomePage.xaml.cs",
+              "RelativeToolTip": "BERTCare.MobileApp\\Views\\MotherWelcomePage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T01:50:21.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewMotherHome.xaml",
+              "DocumentMoniker": "D:\\Jahs\\Clients\\Thesis.BERTCare.App\\BERTCare.MobileApp\\BERTCare.MobileApp\\Views\\MotherPortal\\NewMotherHome.xaml",
+              "RelativeDocumentMoniker": "BERTCare.MobileApp\\Views\\MotherPortal\\NewMotherHome.xaml",
+              "ToolTip": "D:\\Jahs\\Clients\\Thesis.BERTCare.App\\BERTCare.MobileApp\\BERTCare.MobileApp\\Views\\MotherPortal\\NewMotherHome.xaml",
+              "RelativeToolTip": "BERTCare.MobileApp\\Views\\MotherPortal\\NewMotherHome.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T01:10:37.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewRimenders.xaml",
+              "DocumentMoniker": "D:\\Jahs\\Clients\\Thesis.BERTCare.App\\BERTCare.MobileApp\\BERTCare.MobileApp\\Views\\MotherPortal\\NewRimenders.xaml",
+              "RelativeDocumentMoniker": "BERTCare.MobileApp\\Views\\MotherPortal\\NewRimenders.xaml",
+              "ToolTip": "D:\\Jahs\\Clients\\Thesis.BERTCare.App\\BERTCare.MobileApp\\BERTCare.MobileApp\\Views\\MotherPortal\\NewRimenders.xaml",
+              "RelativeToolTip": "BERTCare.MobileApp\\Views\\MotherPortal\\NewRimenders.xaml",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAEQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-18T01:09:34.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
